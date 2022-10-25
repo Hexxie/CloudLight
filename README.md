@@ -1,4 +1,4 @@
-# CloudLight
+CloudLight
 ===
 Software for smart alarm, which should help to wake up earlier with gentle light during the alarm voice. 
 Should be incredible helpful for MiracleMorning during the dark winter mornings.

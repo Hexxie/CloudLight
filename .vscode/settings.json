@@ -7,11 +7,11 @@
         "commands": [
             {
                 "name": "Build",
-                "command": "idf.py all"
+                "command": "make all"
             },
             {
                 "name": "Flash",
-                "command": "idf.py flash"
+                "command": "make flash"
             }
             
         ]

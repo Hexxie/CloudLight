@@ -1,0 +1,19 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/playground/Documents/esp8266/xtensa-lx106-elf/bin:/home/playground/Documents/esp8266/ESP8266_RTOS_SDK/tools:${env:PATH}",
+        "IDF_PATH": "/home/playground/Documents/esp8266/ESP8266_RTOS_SDK"
+    },
+    "actionButtons": {
+        "commands": [
+            {
+                "name": "Build",
+                "command": "idf.py all"
+            },
+            {
+                "name": "Flash",
+                "command": "idf.py flash"
+            }
+            
+        ]
+    }
+}

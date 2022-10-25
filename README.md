@@ -20,7 +20,8 @@ Should be incredible helpful for MiracleMorning during the dark winter mornings.
 - VSCode Action Buttons to support buttons for build and flash.
 
 Change .vscode/settings.json with your environmental variables.
-Run make manuconfig to update project with your settings.
+
+Run make menuconfig to update project with your settings.
 
 
 ### Troubleshooting

@@ -1,6 +1,7 @@
 CloudLight
 ===
-Software for smart alarm, which should help to wake up earlier with gentle light during the alarm voice. 
+Software for smart alarm, which should help to wake up earlier with gentle light during the alarm voice.
+
 Should be incredible helpful for MiracleMorning during the dark winter mornings.
 
 ### Overview
@@ -53,4 +54,5 @@ According to the google, reboot shoul be enough. But I also commented the main r
 ### History
 ---
 10-24-2022 - Project started
+
 10-25-2022 - ESP8266 firmware ongoing
